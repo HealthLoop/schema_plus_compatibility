@@ -1,11 +1,6 @@
 ruby:
-    - 2.3.1
+    - 2.5.3
 activerecord:
-    - 4.2
-    - 5.0
-    - 5.1
-    - 5.2
+    - edge
 db:
-    - mysql2
-    - sqlite3
     - postgresql
